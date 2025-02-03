@@ -6,11 +6,11 @@
 /*   By: lbaumeis <lbaumeis@student.42vienna.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/04 21:20:01 by lbaumeis          #+#    #+#             */
-/*   Updated: 2024/11/08 17:10:44 by lbaumeis         ###   ########.fr       */
+/*   Updated: 2025/02/03 13:58:57 by lbaumeis         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../philo.h"
 
 bool	is_dead(t_philo *p)
 {

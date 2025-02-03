@@ -6,11 +6,11 @@
 /*   By: lbaumeis <lbaumeis@student.42vienna.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 04:09:55 by lbaumeis          #+#    #+#             */
-/*   Updated: 2024/11/06 19:59:21 by lbaumeis         ###   ########.fr       */
+/*   Updated: 2025/02/03 13:58:57 by lbaumeis         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../philo.h"
+#include "../../philo.h"
 
 char	*ft_strjoin(char const *s1, char const *s2)
 {
